@@ -9,4 +9,4 @@ Objective
 * Create an Authentication Page
 * Create Equalizer Page
 
-![alt text](http://design.ubuntu.com/wp-content/uploads/logo-ubuntu_st_no%C2%AE-black_orange-hex.jpg "Logo Title Text 1")
+![alt text](http://design.ubuntu.com/wp-content/uploads/logo-ubuntu_st_no%C2%AE-black-hex.png "Logo Title Text 1")
